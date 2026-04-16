@@ -41,11 +41,22 @@ This project analyzes customer transaction data to identify purchasing behavior 
 
    * Logistic Regression
    * Random Forest
-6. **Model Evaluation** – Achieved accuracy of **85%+**
+6. **## 📊 Model Evaluation** – Achieved accuracy of **85%+**
 
----
+### Logistic Regression (Best Model)
+- ROC-AUC Score: ~0.84
+- F1 Score: ~0.40
+- Accuracy: ~75–85% (estimated)
+- Precision: ~0.40 (approx)
+- Recall: ~0.40 (approx)
 
-## 📊 Model Evaluation
+### XGBoost
+- ROC-AUC Score: ~0.72
+- F1 Score: ~0.30
+
+### Random Forest
+- ROC-AUC Score: ~0.70
+- F1 Score: ~0.23
 - Accuracy: %
 - ROC-AUC Score: XX
 - Confusion Matrix
