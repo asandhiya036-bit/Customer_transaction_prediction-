@@ -86,6 +86,10 @@ Feel free to fork this repository and contribute!
 
 ---
 
+## 📈 Results & Insights
+This project successfully analyzed customer transaction data to uncover meaningful patterns and trends. Machine learning models, including Logistic Regression and Random Forest, were developed and achieved an accuracy of over 85%.  
+
+Data preprocessing techniques such as cleaning, feature engineering, and validation were applied to enhance model performance. The analysis provided actionable insights that can support data-driven business decisions.
 ## 📬 Contact
 
 **Sandhiya A**
