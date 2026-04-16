@@ -2,6 +2,11 @@
  ## 📊 Customer Transaction Analysis & Prediction --
 Identify which customers will make a specific transaction in the future, irrespective of the amount of money transacted.
 
+- Analyzed customer transaction data using Python and SQL to identify trends and patterns
+- Built ML models (Logistic Regression, Random Forest) with 85%+ accuracy
+- Performed data cleaning, feature engineering, and model validation
+- Generated insights to support data-driven business decisions
+
 ## 🔍 Overview
 
 This project analyzes customer transaction data to identify purchasing behavior and predict future transactions using machine learning models. It demonstrates data preprocessing, exploratory data analysis, and predictive modeling following structured development practices.
