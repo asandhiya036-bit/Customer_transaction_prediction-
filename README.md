@@ -45,6 +45,11 @@ This project analyzes customer transaction data to identify purchasing behavior 
 
 ---
 
+## 📊 Model Evaluation
+- Accuracy: %
+- ROC-AUC Score: XX
+- Confusion Matrix
+
 ## 📈 Results
 
 * Successfully predicted customer transaction behavior
@@ -90,11 +95,17 @@ This project followed key phases of the Software Development Life Cycle:
 Feel free to fork this repository and contribute!
 
 ---
+## Markdown 
+
+This project helps businesses understand customer behavior and improve targeted marketing strategies.
+
+## 📈 Key Insights
+- Certain features strongly influence customer transactions
+- Model identifies high-probability customers effectively
 
 ## 📈 Results & Insights
 This project successfully analyzed customer transaction data to uncover meaningful patterns and trends. Machine learning models, including Logistic Regression and Random Forest, were developed and achieved an accuracy of over 85%.  
-
-Data preprocessing techniques such as cleaning, feature engineering, and validation were applied to enhance model performance. The analysis provided actionable insights that can support data-driven business decisions.
+ insights that can support data-driven business decisions.
 ## 📬 Contact
 
 **Sandhiya A**
